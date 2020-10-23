@@ -8,7 +8,7 @@ from PIL import Image
 import uvicorn
 
 def load_final_model():
-    model = load_model('dogcat_model_bak.h5')
+    model = load_model('dogcat_model.h5')
     # print("Model loaded")
     return model
 
