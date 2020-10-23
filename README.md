@@ -1,5 +1,5 @@
 # Backend-for-CNN
-Learning how to create backend for a simple CNN (Cat or Dog) using FastAPI
+Learning how to create backend for a simple CNN (Classifying the image as Cat or Dog) using FastAPI
 
 In order to run on local machine:
 
