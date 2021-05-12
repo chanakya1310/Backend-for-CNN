@@ -36,3 +36,6 @@ ii).When the uploaded file is not of jpg or png format.
     {
       "Error": "Image must be of jpg or png format!"
     }
+
+
+RITHIK JAIN
